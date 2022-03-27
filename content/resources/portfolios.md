@@ -6,10 +6,11 @@ file: /media/courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-w
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3d941cc7-6416-04a6-8e5e-580833e05484
 resourcetype: Document
 title: Portfolios
-type: OCWFile
 uid: 7d8bb8d5-ac79-4d3a-0acc-59bc431dc79e
 ---
