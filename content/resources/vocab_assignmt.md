@@ -6,6 +6,7 @@ file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Vocabulary Lists
 uid: 8778afa2-1226-2646-f18b-3ce0698e1844
 ---
 Guidelines for keeping a list of words that are new to you culled from the readings. 
-

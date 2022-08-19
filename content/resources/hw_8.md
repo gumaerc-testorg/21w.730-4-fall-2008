@@ -6,6 +6,7 @@ file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework #8'
 uid: 6c1b8426-7e0a-bc3e-3454-a24793a5e530
 ---
 Writing assignment on “The Pleasures of Eating” by Wendell Berry.
-

@@ -6,6 +6,7 @@ file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Portfolios
 uid: 7d8bb8d5-ac79-4d3a-0acc-59bc431dc79e
 ---
 Instructions for assembling all your work in a portfolio, including drafts, vocabulary lists, quizzes, and homework writing.
-

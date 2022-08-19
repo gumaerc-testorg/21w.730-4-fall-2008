@@ -5,6 +5,7 @@ file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Reading Materials
 uid: 0fb7c24b-068f-9b11-2459-cd0739004462
 ---
 A list of reading materials on writing and reading about food and culture.
-

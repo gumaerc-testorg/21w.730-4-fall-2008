@@ -6,6 +6,7 @@ file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework #1'
 uid: ec5c81b2-8b8a-1212-c25b-ca7901533bb1
 ---
 Homework assignment to write a latter introducing yourself as a writer, read a collection of short essays, and plan for class discussion.
-

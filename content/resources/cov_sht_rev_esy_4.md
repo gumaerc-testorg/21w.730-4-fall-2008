@@ -6,6 +6,7 @@ file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Re-Revision Cover Sheet
 uid: 0df69b0a-9237-a6c1-683d-a7e113a73c4c
 ---
 Cover sheets with questions to be answered along with revisions of essay assignments.
-
