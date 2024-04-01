@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment to respond to other students' essays.
 file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/f41c78c74896f05bfd631c78a51c7a5b_hw_6.pdf
+file_size: 33949
 file_type: application/pdf
 learning_resource_types:
 - Assignments

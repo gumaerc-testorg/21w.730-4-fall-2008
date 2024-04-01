@@ -4,6 +4,7 @@ description: "Writing assignment on a selection from Ch. 1, \u201CThe Invention 
   \ Cooking,\u201D from Felipe Fern\xE1ndez-Armesto\u2019s Near a Thousand Tables:\
   \ a History of Food."
 file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/346b98e29122dfde669ab142cdafb543_hw_3.pdf
+file_size: 37995
 file_type: application/pdf
 learning_resource_types:
 - Assignments
