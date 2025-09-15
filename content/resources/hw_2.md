@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Assignment on a set of brief essays, all from American food writing:
   an anthology with classic recipes, edited by food writer Molly O''Neill.'
-file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/8953336cc3fdd175789df66a92ed6e4b_hw_2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/8953336cc3fdd175789df66a92ed6e4b_hw_2.pdf
 file_size: 42531
 file_type: application/pdf
 learning_resource_types:

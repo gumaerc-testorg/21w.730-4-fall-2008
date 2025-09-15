@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Essay writing assignments.
-file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/200c135207a4f517d09ecf79fcd331da_hw_17_18_rev_prop.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/200c135207a4f517d09ecf79fcd331da_hw_17_18_rev_prop.pdf
 file_size: 42790
 file_type: application/pdf
 learning_resource_types:

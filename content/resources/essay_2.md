@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to write an essay in which you analyze and reflect on ideas
   from In Defense of Food, by Michael Pollan.
-file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/6013621f05a546380e97263847e83f3b_essay_2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/6013621f05a546380e97263847e83f3b_essay_2.pdf
 file_size: 50283
 file_type: application/pdf
 learning_resource_types:
