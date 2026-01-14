@@ -13,31 +13,31 @@ Here are some links to organizations concerned with food safety, justice, market
 Organizations
 -------------
 
-{{% resource_link "366bbb5c-f7cb-4e78-a794-4ae59b4d63f5" "Local Harvest" %}}  
+[Local Harvest](http://www.localharvest.org/)  
 Includes info on local farms, CSAs (Community supported agriculture groups), etc.
 
-{{% resource_link "6ac48e2c-6add-4ebe-8acc-f52d44f243cc" "Slow Food USA" %}}
+[Slow Food USA](http://www.slowfoodusa.org/)
 
-{{% resource_link "bdc074f7-02e0-4373-8046-76905b35128f" "Center for Food Safety" %}}
+[Center for Food Safety](http://www.centerforfoodsafety.org/)
 
-{{% resource_link "7679e2bf-d3df-4090-9c00-882cfd5c7b80" "Food and Water Safety" %}}
+[Food and Water Safety](http://www.foodandwaterwatch.org/)
 
-{{% resource_link "ae121a1b-3d91-4aa5-8b99-675490031caa" "Organic Consumers Organization" %}}
+[Organic Consumers Organization](http://www.organicconsumers.org/)
 
-{{% resource_link "06808d77-ecbb-4a53-8344-404e434abf1e" "Monterey Bay Aquarium Seafood Watch" %}} – The place to start for info on fish.
+[Monterey Bay Aquarium Seafood Watch](http://www.montereybayaquarium.org/conservation-and-science/our-programs/seafood-watch) – The place to start for info on fish.
 
-{{% resource_link "d7497ce7-24c8-4ac3-bd8f-9baf84b942d5" "Center for Ecoliteracy" %}}  
+[Center for Ecoliteracy](http://www.ecoliteracy.org/)  
 The focus is on "Education for sustainable living," with food at the center of that focus.
 
-{{% resource_link "3adc291b-f27e-49bd-a371-8c304183cb20" "Chef Alice Waters' Chez Panisse Foundation" %}}  
+[Chef Alice Waters' Chez Panisse Foundation](http://www.chezpanissefoundation.org/)  
 This is the organization that began the Edible Schoolyard Project and has an ongoing school lunch initiative.
 
-{{% resource_link "18fec01d-1193-4822-810e-ced1e42e84bc" "Just Food" %}} (NYC)  
+[Just Food](http://www.justfood.org/) (NYC)  
 One of the many volunteer-based organizations dedicated to "food and justice"; in practice, this often means connecting farmers and their produce with lower-income city folk. They also encourage City Farms.
 
-{{% resource_link "8835312b-f4e7-49d0-9e82-d2e4e21f9c0e" "USDA Marketing Service" %}}
+[USDA Marketing Service](http://www.ams.usda.gov/)
 
 Organization Promoting Fair Trade
 ---------------------------------
 
-{{% resource_link "1c954ff3-7f09-45c5-91bc-bff0dbbaa901" "Equal Exchange: Retail Store" %}}
+[Equal Exchange: Retail Store](http://shop.equalexchange.com/)
